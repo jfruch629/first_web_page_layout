@@ -1,0 +1,107 @@
+body {
+  font-family: 'Source Sans Pro';
+  background-color: #E5F3F4;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+nav {
+  font-family: 'Alegreya';
+  padding: 5px 0px 10px 50px;
+  background-color: #3498DB;
+  color: white;
+}
+
+.quote div {
+  border: 30px black;
+}
+
+.site-title {
+  padding-bottom: 0em;
+  margin-bottom: 0em;
+}
+
+.sub-title {
+  margin: 0px auto 10px auto;
+  padding: 0px auto 0px auto;
+  font-weight: normal;
+}
+
+.quote {
+  font-size: .98em;
+  font-weight: 600;
+  width: 45%;
+  margin: 30px auto;
+  padding: 1em 2em 1em 2em;
+  background-color: #2ECC71;
+  border: 5px #27AE60;
+  border-style: solid;
+
+}
+
+.quoted-from {
+  font-size: 1em;
+  font-weight: 600;
+  font-style: italic;
+  margin-left: 70%;
+}
+
+h4 {
+  margin: 10px auto 0px auto;
+  padding: 10px auto 0px auto;
+  font-weight: normal;
+}
+
+h3 {
+  padding: 5px auto 10px auto;
+  margin-top: 5px;
+}
+
+.try-it-now {
+  font-family: 'Alegreya';
+  font-weight: 100;
+  font-style: italic;
+  font-size: 1.2em;
+  text-align: center;
+  color: white;
+  background-color: #E74C3C;
+  width: 25%;
+  padding: 10px 10px 0px 10px;
+  margin: auto auto 10px auto;
+  border: 5px #C0392B;
+  border-radius: 25px;
+  border-style: solid;
+}
+
+#cupcake-link {
+  padding-top: 0px;
+  color: white;
+  font-style: italic;
+  font-size: 1.5em;
+}
+
+.blue-page-section p  {
+  font-weight: normal;
+}
+
+.blue-page-section {
+  padding: 50px 45px 50px 45px;
+  color: white;
+  background-color: #2C3E50;
+}
+
+footer {
+  padding: 0px;
+  margin: 0px;
+  background-color: #1C2224;
+  color: #3498DC;
+}
+
+footer a {
+  margin-bottom: 0px;
+  font-weight: normal;
+  color: #3498DC;
+  text-decoration: none;
+  text-align: center;
+  padding: 15px;
+}
